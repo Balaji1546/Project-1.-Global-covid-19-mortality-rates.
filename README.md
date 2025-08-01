@@ -14,3 +14,4 @@ This dashboard visualizes the global impact of COVID-19 by comparing mortality r
 ### 🖼 Dashboard Preview
 
 ![COVID-19 Dashboard](./Screenshot%202025-08-01%20174405.png)
+![Country wise COVID-19 Cases](./Screenshot%202025-08-01%20174857.png)
