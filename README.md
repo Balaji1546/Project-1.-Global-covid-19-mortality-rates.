@@ -7,11 +7,11 @@ This dashboard visualizes the global impact of COVID-19 by comparing mortality r
 - Highlights top and bottom countries by death rate
 - Interactive map and bar charts for comparison
 
-### 🛠 Tools:
-- Tableau Public
-- COVID-19 Dataset: Our World in Data
-
 ### 🖼 Dashboard Preview
 
 ![COVID-19 Dashboard](./Screenshot%202025-08-01%20174405.png)
 ![Country wise COVID-19 Cases](./Screenshot%202025-08-01%20174857.png)
+
+### 🛠 Tools:
+- Tableau Public
+- COVID-19 Dataset: Our World in Data (Provided by Intellipaat)
