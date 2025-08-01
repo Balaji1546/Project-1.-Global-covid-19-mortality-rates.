@@ -10,3 +10,7 @@ This dashboard visualizes the global impact of COVID-19 by comparing mortality r
 ### 🛠 Tools:
 - Tableau Public
 - COVID-19 Dataset: Our World in Data
+
+### 🖼 Dashboard Preview
+
+![COVID-19 Dashboard](./Screenshot%202025-08-01%20174405.png)
